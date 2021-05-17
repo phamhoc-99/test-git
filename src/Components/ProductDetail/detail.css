@@ -1,0 +1,14 @@
+.avatar{
+  width: 100;
+}
+.detail-img{
+  width: 100%;
+  max-width: 300px;
+}
+.desc{
+  height: 200px;
+  max-height: 500px;
+}
+.pd{
+  padding: 20px;
+}

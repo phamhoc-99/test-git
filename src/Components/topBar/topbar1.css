@@ -1,0 +1,28 @@
+.topbar2 {
+     margin-top: 58px;
+}
+.avatar {
+     height: 40px;
+}
+.nav-top-bar{
+     opacity: 1.0;
+     animation-name: ani;
+     animation-duration: 1s;
+}
+@keyframes ani{
+     from{
+          opacity: 0;
+     }
+     to{
+          opacity: 1;
+     }
+}
+/* ////////////////////////////// */
+.header__menu{text-align: center;}
+
+i.fas.fa-cart-plus {float: right;}
+
+@media (max-width: 1440px) { 
+     .li_header_menu{margin: 0 5px;}    
+ }
+.header__btn{float: right}
